@@ -1,0 +1,13 @@
+{
+  "description": "This platform offers a professional frontend for Global Services Technologie, showcasing their technology services, managing inquiries, and tracking projects efficiently.",
+  "icons": {
+    "icon": "/assets/gst-logo.png"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
